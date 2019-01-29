@@ -1,0 +1,10 @@
+cookingblog.com low Blog.txt
+lions.com high Encyclopedia.txt
+celebgoss.com low Gossip.txt
+dailyhappenings.com high News.txt
+hozier.com medium Celebrity.txt
+trends.com medium FashionTrends.txt
+soccer.com low Sports.txt
+bookface.com low SocialMedia.txt
+videos.com medium Videos.txt
+italy.com high Country.txt
